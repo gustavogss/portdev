@@ -1,13 +1,13 @@
-# :computer: Projeto
+# Projeto 🚀
 Aplicativo que mostra repositórios do github com nome, tipo de tecnologia, descrição e estrelas
 
-## :robot: Tecnologias e Ferramentas utilizadas:
+## Tecnologias e Ferramentas utilizadas :robot:
 - Android Studio
 - Kotlin
 - Api Rest do Github
 - Repositorio Json
 
-### Como utilizar 🔌
+## Como utilizar 🔌
 - Clone o repositório
 - Instale o [Android Studio](https://developer.android.com/studio)
 - Abra o repositório dentro do Android Studio
